@@ -22,9 +22,12 @@ Goals of the project:
 Features:
 
 Immersive Virtual Labs: Realistic, 3D simulations of science experiments that provide an engaging and interactive learning experience, allowing students to perform experiments in a fully immersive environment.
+
 Customizable Learning Modules: Tailored lessons and experiments based on different grade levels and learning objectives, with specific learning paths for the students.
-Real-Time Feedback and Guidance: Built-in features like Quizzes, Flash Cards and revision notes. hat provide immediate feedback on students’ actions, 
+
+Real-Time Feedback and Guidance: Built-in features like Quizzes, Flash Cards and revision notes. That provide immediate feedback on students’ actions, 
 guiding them through the experiment and reinforcing key concepts to improve understanding and performance.
+
 Multi-User Interaction: Support for collaborative learning, we have made a collaborative VR classroom where students can 
 work together and connect from different places or their homes in virtual labs, discuss concepts, and solve problems in real-time, enhancing teamwork and communication skills.
 
