@@ -42,6 +42,7 @@ With VR classrooms schools can organise collaborative VR labs with other college
 It can also help school to organise labs online remotely in pandemic situations like COVID-19.
 
 For Government: 
+
 By replacing traditional science labs with VR labs, the government can save crores that would otherwise be spent annually on school lab infrastructure, requiring only a single investment.
 Hence it solves problem of Limited Space and Resources, environmental pollution of real chemical use and makes it avaialble to remote and government schools.
 
